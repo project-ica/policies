@@ -1,0 +1,66 @@
+Política de Privacidad
+
+Última actualización: 22 de abril de 2025
+
+1. Introducción
+
+Esta Política de Privacidad describe cómo Industrial Controls & Automation Inc. ("nosotros", "nuestro" o "nuestra") gestiona los datos cuando utiliza "labelid" (la "Aplicación"). La Aplicación es una herramienta de software diseñada para extraer datos de documentos y etiquetas de envío y transmitir dichos datos a una base de datos local instalada en sus instalaciones. Esta Política se aplica únicamente a la Aplicación y no cubre otros productos, servicios o integraciones.
+
+2. Recopilación de Datos
+
+Sin recopilación remota. La Aplicación en sí no recopila datos personales, registros, telemetría ni ninguna otra información de su entorno o usuarios. Todo el procesamiento y la extracción de datos se realiza completamente en el dispositivo cliente o en la red local.
+
+Procesamiento de datos local. Los datos extraídos se envían directamente a una instancia de base de datos local instalada en sus instalaciones. La Aplicación no transmite datos a través de Internet a menos que usted lo configure explícitamente como parte de un acuerdo negociado por separado con Industrial Controls & Automation Inc. para integraciones y operaciones más amplias.
+
+3. Uso de los Datos
+
+Uso únicamente local. Los datos extraídos por la Aplicación están destinados a su uso dentro de sus sistemas locales. No accedemos, visualizamos ni utilizamos sus datos para ningún propósito, salvo que se acuerde explícitamente en un contrato escrito separado con Industrial Controls & Automation Inc.
+
+4. Almacenamiento y Seguridad de los Datos
+
+Almacenamiento controlado por el cliente. Su organización conserva el control total sobre los datos en la base de datos local y cualquier copia de seguridad asociada, sujeto a un acuerdo negociado por separado entre las partes. Recomendamos implementar medidas de seguridad adecuadas (por ejemplo, controles de acceso, cifrado en reposo) de acuerdo con sus políticas internas.
+
+Directrices para la base de datos en tránsito. Ofrecemos orientación sobre la integración de la base de datos en tránsito de la Aplicación, siempre que exista un acuerdo negociado por separado entre las partes. La base de datos en tránsito funciona localmente y está pensada únicamente como almacén temporal de los datos extraídos antes de trasladarlos a sus sistemas de almacenamiento principales; no debe servir como medio de almacenamiento principal. Proporcionamos métodos API y SQL para extraer y eliminar datos de esta base de datos en tránsito de forma local.
+
+5. Compartición con Terceros
+
+Sin divulgación a terceros. No compartimos, vendemos ni revelamos ningún dato procesado por la Aplicación a terceros. Cualquier integración externa debe ser configurada explícitamente por usted y estará sujeta a sus propios acuerdos y políticas.
+
+Restricciones de integración. La Aplicación no debe integrarse directamente con servicios de terceros distintos de los proporcionados o autorizados por Industrial Controls & Automation Inc. El incumplimiento de este requisito puede resultar en la terminación de su licencia y puede exponerlo a acciones legales por incumplimiento de contrato.
+
+6. Responsabilidades del Usuario y Uso Inadecuado
+
+Uso adecuado. Usted acepta utilizar la Aplicación en cumplimiento con todas las leyes y regulaciones aplicables. La Aplicación es una herramienta, y usted asume la responsabilidad exclusiva de los datos que procese y de la forma en que los procese.
+
+Uso indebido. Deslindamos toda responsabilidad por cualquier uso indebido de la Aplicación o de los datos que usted procese. Si necesita garantías o controles adicionales sobre la responsabilidad, por favor discútalo y llegado a un acuerdo con nosotros en un contrato escrito separado.
+
+7. Soporte, Garantías y Responsabilidades
+
+Parte de un sistema más amplio. La Aplicación se proporciona como un componente de un sistema más amplio que usted adquiere o licencia. El soporte, mantenimiento, garantías y responsabilidades están regidos por los términos de su contrato de sistema con nosotros.
+
+Sin garantías independientes. La descarga o el uso de la Aplicación de forma independiente no le otorga derecho a soporte, mantenimiento, garantías ni cobertura de responsabilidad. Cualquier uso o distribución independiente sin un contrato de sistema vigente es bajo su propio riesgo.
+
+8. Exención de Responsabilidad
+
+En la máxima medida permitida por la ley, renunciamos a toda responsabilidad por:
+
+Cualquier daño directo, indirecto, incidental o consecuente derivado de o relacionado con su uso de la Aplicación.
+
+Cualquier pérdida, uso indebido o acceso no autorizado a los datos procesados por la Aplicación.
+
+Cualquier fallo para asegurar, mantener o respaldar su base de datos local.
+
+9. Cambios en esta Política de Privacidad
+
+Podemos actualizar esta Política de Privacidad periódicamente. La fecha de "Última actualización" en la parte superior reflejará la revisión más reciente. Su uso continuado de la Aplicación después de los cambios constituye la aceptación de la Política actualizada.
+
+10. Contáctenos
+
+Si tiene preguntas o inquietudes acerca de esta Política de Privacidad, contáctenos en:
+
+Industrial Controls & Automation Inc.
+8259 NW 66th St. Miami, FL, 33166
+Correo electrónico: sales@icaincusa.com
+Teléfono: +1 305 599 2572
+
+Gracias por elegir Industrial Controls & Automation Inc. y "labelid". Su privacidad y seguridad son importantes para nosotros.
