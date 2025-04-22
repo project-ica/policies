@@ -1,0 +1,66 @@
+Privacy Policy
+
+Last updated: April 22, 2025
+
+1. Introduction
+
+This Privacy Policy describes how Industrial Controls & Automation Inc. ("we", "us", or "our") handles data when you use the "labelid" (the "App"). The App is a software tool designed to extract data from documents and shipping labels and transmit that data to a local database installed in your facilities. This Policy applies solely to the App and does not cover any other products, services, or integrations.
+
+2. Data Collection
+
+No Remote Collection. The App itself does not collect personal data, logs, telemetry, or any other information from your environment or users. All processing and data extraction occur entirely on the client device or local network.
+
+Local Data Processing. Extracted data is sent directly to a local database instance installed within your facilities. The App does not transmit data over the internet unless explicitly configured by you as part of a separately negotiated agreement with Industrial Controls & Automation Inc. regarding broader integrations and operations.
+
+3. Use of Data
+
+Local Use Only. Data extracted by the App is intended for use within your local systems. We do not access, view, or use your data for any purpose, unless explicitly agreed upon in a separate written agreement with Industrial Controls & Automation Inc.
+
+4. Data Storage and Security
+
+Client-Controlled Storage. Your organization retains full control over the data in the local database and any associated backups, subject to separate agreement between parties. We recommend implementing appropriate security measures (e.g., access controls, encryption at rest) according to your internal policies.
+
+In-Transit Database Guidelines. We provide guidance on integrating the App’s in-transit database, provided a separately negotiated agreement between the parties. The App’s in-transit database operates locally and is intended solely as a temporary store for extracted data before it is moved to your principal storage systems; it must not serve as your primary data store. We offer API and SQL methods to extract and delete data from this transit database locally.
+
+5. Third-Party Sharing
+
+No Third-Party Disclosures. We do not share, sell, or disclose any data processed by the App to third parties. Any external integrations must be explicitly configured by you and are subject to your own agreements and policies.
+
+Integration Restrictions. The App must not be integrated directly with any third-party services other than those provided or authorized by Industrial Controls & Automation Inc. Failure to comply with this requirement may result in termination of your license and may expose you to legal action for breach of agreement.
+
+6. User Responsibilities and Misuse User Responsibilities and Misuse**
+
+Proper Use. You agree to use the App in compliance with all applicable laws and regulations. The App is a tool, and you bear sole responsibility for the data you process and how you process it.
+
+Misuse. We disclaim responsibility for any misuse of the App or the data you process. Should you require additional assurances or controls regarding liability, please discuss and agree upon terms with us in a separate written agreement.
+
+7. Support, Warranties, and Guarantees
+
+Part of a Larger System. The App is provided as a component of a broader system that you purchase or license. Support, maintenance, warranties, and guarantees are governed by the terms of your system-level agreement with us.
+
+No Standalone Guarantees. Downloading or using the App on a standalone basis does not entitle you to support, maintenance, warranties, or liability coverage. Any standalone usage or distribution without a governing system agreement is at your own risk.
+
+8. Disclaimer of Liability
+
+To the maximum extent permitted by law, we disclaim all liability for:
+
+Any direct, indirect, incidental, or consequential damages arising out of or relating to your use of the App.
+
+Any loss, misuse, or unauthorized access to data processed by the App.
+
+Any failure to secure, maintain, or backup your local database.
+
+9. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. The "Last updated" date at the top will reflect the most recent revision. Your continued use of the App after changes constitutes acceptance of the updated Policy.
+
+10. Contact Us
+
+For questions or concerns about this Privacy Policy, please contact us at:
+
+Industrial Controls & Automation Inc.
+8259 NW 66TH ST. MIAMI, FL, 33166
+Email: sales@icaincusa.com
+Phone: +1 305 599 2572
+
+Thank you for choosing Industrial Controls & Automation Inc. and "labelid". Your privacy and security are important to us.
